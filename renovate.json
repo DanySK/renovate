@@ -28,7 +28,7 @@
       "groupName": "jest monorepo"
     },
     {
-      "matchPaths": ["**/__fixtures__/**"],
+      "matchFileNames": ["**/__fixtures__/**"],
       "enabled": false
     }
   ]
